@@ -2,7 +2,7 @@
 
 - 📚 Atualmente cursando Engenharia da Computação (9/10).
 - 💼 Não estou trabalhando na área de T.I atualmente.
-- 🌱 Estudando OpenCV.
+- 🌱 Estudando Tensorflow, Deep Learning e Machine Learning.
 - 📨 Meu email para contato é: vitor@skylimitifp.com
 
 
