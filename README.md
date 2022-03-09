@@ -1,9 +1,9 @@
 ## Muito prazer, eu sou o Vitor!
 
-- 📚 Atualmente cursando Engenharia da Computação (8/10).
+- 📚 Atualmente cursando Engenharia da Computação (9/10).
 - 💼 Não estou trabalhando na área de T.I atualmente.
 - 🌱 Estudando OpenCV.
-- 📨 Meu email para contato é: vithinn@icloud.com
+- 📨 Meu email para contato é: vitor@skylimitifp.com
 
 
 
