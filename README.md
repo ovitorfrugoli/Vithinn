@@ -1,9 +1,9 @@
 ## Muito prazer, eu sou o Vitor!
 
-- 📚 Atualmente cursando Engenharia da Computação (9/10).
+- 📚 Atualmente cursando Engenharia da Computação (10/10).
 - 💼 Não estou trabalhando na área de T.I atualmente.
 - 🌱 Estudando Tensorflow, Deep Learning e Machine Learning.
-- 📨 Meu email para contato é: vitor@skylimitifp.com
+- 📨 Meu email para contato é: contato@vitorfrugoli.com.br
 
 
 
