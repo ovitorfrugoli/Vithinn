@@ -1,9 +1,7 @@
 ## Muito prazer, eu sou o Vitor!
 
-- 📚 Atualmente cursando Engenharia da Computação (10/10).
-- 💼 Não estou trabalhando na área de T.I atualmente.
-- 🌱 Estudando Tensorflow, Deep Learning e Machine Learning.
-- 📨 Meu email para contato é: contato@vitorfrugoli.com.br
+- 📚 Formado em Engenharia da Computação
+- 📨 vitor@vtn.business
 
 
 
