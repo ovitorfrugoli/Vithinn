@@ -1,7 +1,7 @@
 ## Muito prazer, eu sou o Vitor!
 
 - 📚 Formado em Engenharia da Computação
-- 📨 vitor@vtn.business
+- 📨 vitor@nohau.agency
 
 
 
